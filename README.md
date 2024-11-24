@@ -173,4 +173,4 @@ Generate text using multiple models based on the input prompt.
 Feel free to open issues or submit pull requests if you'd like to improve this project!
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
